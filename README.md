@@ -1,7 +1,10 @@
 # Hi, I'm Husain Ahmed 👋
 
-💻 Frontend Developer (React & JavaScript)  
-📘 Currently mastering Data Structures & Algorithms  
+Passionate about building scalable web applications  
+and continuously improving problem-solving skills.
+
+Frontend Developer (React & JavaScript)  
+Actively strengthening Data Structures & Algorithms  
 🚀 6-Month Consistency Challenge  
 
 ---
@@ -15,9 +18,17 @@
 
 ## 📈 2026 Goals
 - Solve 300+ DSA problems
-- Build 2 strong React projects
-- Strengthen problem-solving skills
+- Build 2 production-ready React projects
+- Crack a product-based developer role
 
 ---
 
-> Consistency > Motivation
+## 🛠 Tech Stack
+- JavaScript
+- React
+- Node.js (Learning)
+- Git & GitHub
+
+---
+
+> Consistency beats motivation.
